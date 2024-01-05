@@ -23,7 +23,8 @@ This project provides the functionality to validate the S10 Barcode based on the
         "barcode": "string",
         "isValid": true
       }
-     
+   - Additionally, basic spring security has been enabled in this project and credentials are available in Running the application section
+       
 ## Running the application
   - Run the application as Spring Boot Project from any IDE
   - Alternatively, once the source code is cloned into local machine, below commands can be executed in command prompt to package and run the application
