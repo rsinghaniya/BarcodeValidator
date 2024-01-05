@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "error.barcode.validation.api.incorrect.format",
+    "type": "java.lang.String",
+    "description": "A description for 'error.barcode.validation.api.incorrect.format'"
+  },
+  {
+    "name": "test.data.invalid.barcode",
+    "type": "java.lang.String",
+    "description": "A description for 'test.data.invalid.barcode'"
+  },
+  {
+    "name": "test.data.valid.barcode",
+    "type": "java.lang.String",
+    "description": "A description for 'test.data.valid.barcode'"
+  },
+  {
+    "name": "test.data.incorrect.barcode.format",
+    "type": "java.lang.String",
+    "description": "A description for 'test.data.incorrect.barcode.format'"
+  }
+]}
